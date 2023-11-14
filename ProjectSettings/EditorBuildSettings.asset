@@ -4,7 +4,37 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/UnityHand/Scenes/BodyPoseDetectionExamples.unity
+    guid: 110ae32292d67e644b1537af29fb7dd1
+  - enabled: 1
+    path: Assets/UnityHand/Scenes/DistanceGrabExamples.unity
+    guid: 0b875df358fd61242af637047da1f924
+  - enabled: 1
+    path: Assets/UnityHand/Scenes/GestureExamples.unity
+    guid: 7f90ae1f69bf7f14ba8a470c9ea015ba
+  - enabled: 1
+    path: Assets/UnityHand/Scenes/HandGrabExamples.unity
+    guid: 3dcdf6cef14eec94b8fe0344327fab68
+  - enabled: 1
+    path: Assets/UnityHand/Scenes/HandGrabUseExamples.unity
+    guid: 962a2ff034968c7478c7f2834f708824
+  - enabled: 1
+    path: Assets/UnityHand/Scenes/PokeExamples.unity
+    guid: 624849b4fa542e345a39d11c1beb6d45
+  - enabled: 1
+    path: Assets/UnityHand/Scenes/PoseExamples.unity
+    guid: 8b487e0ee0a352a45bc5331006235b85
+  - enabled: 1
+    path: Assets/UnityHand/Scenes/SnapExamples.unity
+    guid: 1ce9f8a3e3044904dbad25b0275fa15d
+  - enabled: 1
+    path: Assets/UnityHand/Scenes/TouchGrabExamples.unity
+    guid: 125841f5548c93a46926ab5905f31752
+  - enabled: 1
+    path: Assets/UnityHand/Scenes/TransformerExamples.unity
+    guid: 5b5e01c1f6e8e32418b31082c8d793aa
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 4b170ce931fc8e14693ba32ed3f628e9, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d6865feb1f1783142a366770548bfc84, type: 2}

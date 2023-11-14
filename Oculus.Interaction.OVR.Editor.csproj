@@ -41,14 +41,14 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Oculus\Interaction\OVRIntegration\Editor\Blocks\Interactors\Scripts\OVRInteractorBlockData.cs" />
-     <Compile Include="Assets\Oculus\Interaction\OVRIntegration\Editor\UnityCanvas\OVRCanvasMeshRendererEditor.cs" />
      <Compile Include="Assets\Oculus\Interaction\OVRIntegration\Editor\Blocks\HandTracking\Scripts\OVRInteractionHandTrackingBlockData.cs" />
+     <Compile Include="Assets\Oculus\Interaction\OVRIntegration\Editor\Blocks\Interactors\Scripts\OVRHandPokeLimiterBlockData.cs" />
+     <Compile Include="Assets\Oculus\Interaction\OVRIntegration\Editor\Blocks\BlocksUtils.cs" />
+     <Compile Include="Assets\Oculus\Interaction\OVRIntegration\Editor\UnityCanvas\OVRCanvasMeshRendererEditor.cs" />
      <Compile Include="Assets\Oculus\Interaction\OVRIntegration\Editor\Blocks\Interactors\Scripts\OVRHandPhysicsBlockData.cs" />
      <Compile Include="Assets\Oculus\Interaction\OVRIntegration\Editor\AutoWiring\OVRAutoWiring.cs" />
      <Compile Include="Assets\Oculus\Interaction\OVRIntegration\Editor\Blocks\Interactions\Scripts\OVRInteractionBlockData.cs" />
      <Compile Include="Assets\Oculus\Interaction\OVRIntegration\Editor\Blocks\SyntheticHands\Scripts\OVRSyntheticHandsBlockData.cs" />
-     <Compile Include="Assets\Oculus\Interaction\OVRIntegration\Editor\Blocks\Interactors\Scripts\OVRHandPokeLimiterBlockData.cs" />
-     <Compile Include="Assets\Oculus\Interaction\OVRIntegration\Editor\Blocks\BlocksUtils.cs" />
      <None Include="Assets\Oculus\Interaction\OVRIntegration\Editor\Oculus.Interaction.OVR.Editor.asmdef" />
     <Reference Include="UnityEngine">
         <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.10f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>

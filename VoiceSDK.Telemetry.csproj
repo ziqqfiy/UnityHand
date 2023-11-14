@@ -42,9 +42,9 @@
   <ItemGroup>
      <Compile Include="Assets\Oculus\Voice\Features\Telemetry\Scripts\Editor\TelemetryAnnotationKey.cs" />
      <Compile Include="Assets\Oculus\Voice\Features\Telemetry\Scripts\Editor\Telemetry.cs" />
-     <Compile Include="Assets\Oculus\Voice\Features\Telemetry\Scripts\Editor\AssemblyInfo.cs" />
      <Compile Include="Assets\Oculus\Voice\Features\Telemetry\Scripts\Editor\TelemetryLogLevel.cs" />
      <Compile Include="Assets\Oculus\Voice\Features\Telemetry\Scripts\Editor\TelemetryConsentManager.cs" />
+     <Compile Include="Assets\Oculus\Voice\Features\Telemetry\Scripts\Editor\AssemblyInfo.cs" />
      <None Include="Assets\Oculus\Voice\Features\Telemetry\Scripts\Editor\Telemetry.Editor.asmdef" />
     <Reference Include="UnityEngine">
         <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.10f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
