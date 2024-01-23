@@ -5,18 +5,26 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638355650407059660
-    m_Hash: 1487007127
+      ticks: 638410895395454677
+    m_Hash: 835518833
   m_LockFileStatus:
     m_FilePath: C:/Users/battl/Unity/UnityHand/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638355650407095374
-    m_Hash: 311730585
+      ticks: 638411040587491009
+    m_Hash: 2860990925
 m_EmbeddedPackageManifests:
-  m_ManifestsStatus: {}
+  m_ManifestsStatus:
+    C:/Users/battl/Unity/UnityHand/Packages/com.unity.asset-store-tools/package.json:
+      m_FilePath: C:/Users/battl/Unity/UnityHand/Packages/com.unity.asset-store-tools/package.json
+      m_PathExists: 1
+      m_ContentTrackingEnabled: 1
+      m_ModificationDate:
+        serializedVersion: 2
+        ticks: 638277724320000000
+      m_Hash: 2409871368
 m_LocalPackages:
   m_LocalFileStatus: []
 m_ProjectPath: C:/Users/battl/Unity/UnityHand/Packages
@@ -333,9 +341,12 @@ m_ResolvedPackages:
     - 5.1.0
     - 5.1.1
     - 5.2.0
+    - 5.2.2
+    - 6.0.1-pre.1
     compatible:
     - 5.1.1
     - 5.2.0
+    - 5.2.2
     recommended: 5.1.1
     deprecated: []
   dependencies:
@@ -399,12 +410,12 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
-- packageId: com.unity.services.analytics@5.0.1
+- packageId: com.unity.services.analytics@5.0.2
   testable: 0
   isDirectDependency: 1
-  version: 5.0.1
+  version: 5.0.2
   source: 1
-  resolvedPath: C:\Users\battl\Unity\UnityHand\Library\PackageCache\com.unity.services.analytics@5.0.1
+  resolvedPath: C:\Users\battl\Unity\UnityHand\Library\PackageCache\com.unity.services.analytics@5.0.2
   assetPath: Packages/com.unity.services.analytics
   name: com.unity.services.analytics
   displayName: Analytics
@@ -445,10 +456,12 @@ m_ResolvedPackages:
     - 4.4.2
     - 5.0.0
     - 5.0.1
+    - 5.0.2
     compatible:
     - 5.0.0
     - 5.0.1
-    recommended: 5.0.1
+    - 5.0.2
+    recommended: 5.0.2
     deprecated: []
   dependencies:
   - name: com.unity.ugui
@@ -485,13 +498,13 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638327852030000000
+  datePublishedTicks: 638368703420000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.services.analytics@5.0/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
-    revision: f0516cff70d3123f4c7ab1e2625d29f6b057b8f7
+    revision: 666246c716ed64d5d5a2b522ccef4ef3bca5eefa
     path: 
   unityLifecycle:
     version: 5.0.0
@@ -501,12 +514,12 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
-- packageId: com.unity.textmeshpro@3.0.6
+- packageId: com.unity.textmeshpro@3.0.7
   testable: 0
   isDirectDependency: 1
-  version: 3.0.6
+  version: 3.0.7
   source: 1
-  resolvedPath: C:\Users\battl\Unity\UnityHand\Library\PackageCache\com.unity.textmeshpro@3.0.6
+  resolvedPath: C:\Users\battl\Unity\UnityHand\Library\PackageCache\com.unity.textmeshpro@3.0.7
   assetPath: Packages/com.unity.textmeshpro
   name: com.unity.textmeshpro
   displayName: TextMeshPro
@@ -515,7 +528,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: Text Rendering
-  type: asset
+  type: assets
   description: 'TextMeshPro is the ultimate text solution for Unity. It''s the perfect
     replacement for Unity''s UI Text and the legacy Text Mesh.
 
@@ -620,25 +633,29 @@ m_ResolvedPackages:
     - 3.0.4
     - 3.0.5
     - 3.0.6
+    - 3.0.7
     - 3.2.0-pre.1
     - 3.2.0-pre.2
     - 3.2.0-pre.3
     - 3.2.0-pre.4
     - 3.2.0-pre.5
     - 3.2.0-pre.6
+    - 3.2.0-pre.7
     - 4.0.0-pre.1
     - 4.0.0-pre.2
     compatible:
     - 3.0.6
+    - 3.0.7
     - 3.2.0-pre.1
     - 3.2.0-pre.2
     - 3.2.0-pre.3
     - 3.2.0-pre.4
     - 3.2.0-pre.5
     - 3.2.0-pre.6
+    - 3.2.0-pre.7
     - 4.0.0-pre.1
     - 4.0.0-pre.2
-    recommended: 3.0.6
+    recommended: 3.0.7
     deprecated: []
   dependencies:
   - name: com.unity.ugui
@@ -666,13 +683,13 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637547111200000000
-  documentationUrl: 
+  datePublishedTicks: 638410382150000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.textmeshpro@3.0/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.textmeshpro.git
-    revision: 01e57e3b7de18af9dfe9baaa0a0ff5cc4765c899
+    revision: 5c364f204e10eaec84fcbff640ad4d833774c1ed
     path: 
   unityLifecycle:
     version: 3.0.6
@@ -1018,12 +1035,12 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
-- packageId: com.unity.xr.management@4.4.0
+- packageId: com.unity.xr.management@4.4.1
   testable: 0
   isDirectDependency: 1
-  version: 4.4.0
+  version: 4.4.1
   source: 1
-  resolvedPath: C:\Users\battl\Unity\UnityHand\Library\PackageCache\com.unity.xr.management@4.4.0
+  resolvedPath: C:\Users\battl\Unity\UnityHand\Library\PackageCache\com.unity.xr.management@4.4.1
   assetPath: Packages/com.unity.xr.management
   name: com.unity.xr.management
   displayName: XR Plugin Management
@@ -1092,9 +1109,11 @@ m_ResolvedPackages:
     - 4.3.1
     - 4.3.3
     - 4.4.0
+    - 4.4.1
     compatible:
     - 4.4.0
-    recommended: 4.4.0
+    - 4.4.1
+    recommended: 4.4.1
     deprecated: []
   dependencies:
   - name: com.unity.modules.subsystems
@@ -1136,13 +1155,13 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638224209960000000
+  datePublishedTicks: 638410379800000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.xr.management@4.4/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/xr.sdk.management.git
-    revision: 6fefbe0e3deca93f6eb53e66ca554b58f2acf0d8
+    revision: 0eaf10a186d9e12b264d5e10d1c7daa345428fb4
     path: 
   unityLifecycle:
     version: 4.4.0
@@ -1249,11 +1268,13 @@ m_ResolvedPackages:
     - 4.1.1
     - 4.1.2
     - 4.2.0-exp-env-depth.1
+    - 4.2.0-exp-env-depth.2
     compatible:
     - 4.0.0
     - 4.1.1
     - 4.1.2
     - 4.2.0-exp-env-depth.1
+    - 4.2.0-exp-env-depth.2
     recommended: 4.0.0
     deprecated: []
   dependencies:
@@ -1261,7 +1282,7 @@ m_ResolvedPackages:
     version: 4.4.0
   resolvedDependencies:
   - name: com.unity.xr.management
-    version: 4.4.0
+    version: 4.4.1
   - name: com.unity.modules.subsystems
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
@@ -3150,6 +3171,60 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+- packageId: com.unity.asset-store-tools@file:C:\Users\battl\Unity\UnityHand\Packages\com.unity.asset-store-tools
+  testable: 1
+  isDirectDependency: 1
+  version: 11.3.1
+  source: 3
+  resolvedPath: C:\Users\battl\Unity\UnityHand\Packages\com.unity.asset-store-tools
+  assetPath: Packages/com.unity.asset-store-tools
+  name: com.unity.asset-store-tools
+  displayName: Asset Store Tools
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: tool
+  description: Whether you're a programmer, game designer, texture artist or 3D modeler,
+    you're welcome to share your creations with everybody in the Unity developer
+    community!
+  status: 0
+  errors: []
+  versions:
+    all: []
+    compatible: []
+    recommended: 
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
 - packageId: com.unity.modules.subsystems@1.0.0
   testable: 0
   isDirectDependency: 0
@@ -3360,9 +3435,13 @@ m_ResolvedPackages:
     - 1.10.1
     - 1.11.0
     - 1.12.0
+    - 1.12.1
+    - 1.12.2
     compatible:
     - 1.11.0
     - 1.12.0
+    - 1.12.1
+    - 1.12.2
     recommended: 1.11.0
     deprecated: []
   dependencies:
@@ -3622,11 +3701,13 @@ m_ResolvedPackages:
     - 3.0.24
     - 3.0.25
     - 3.0.26
+    - 3.0.27
     compatible:
     - 3.0.24
     - 3.0.25
     - 3.0.26
-    recommended: 3.0.26
+    - 3.0.27
+    recommended: 3.0.27
     deprecated: []
   dependencies:
   - name: com.unity.ext.nunit
@@ -3929,6 +4010,8 @@ m_ResolvedPackages:
     - 1.3.8
     - 1.3.9
     - 1.4.0
+    - 1.4.1
+    - 1.4.2
     - 2.0.1-exp.1
     - 2.0.1-exp.2
     - 2.0.1-pre.12
@@ -3945,6 +4028,8 @@ m_ResolvedPackages:
     - 1.3.8
     - 1.3.9
     - 1.4.0
+    - 1.4.1
+    - 1.4.2
     - 2.0.1-exp.1
     - 2.0.1-exp.2
     - 2.0.1-pre.12
@@ -4047,9 +4132,11 @@ m_ResolvedPackages:
     - 1.2.2
     - 1.2.3
     - 1.2.4
+    - 1.2.5
     compatible:
     - 1.2.4
-    recommended: 1.2.4
+    - 1.2.5
+    recommended: 1.2.5
     deprecated: []
   dependencies:
   - name: com.unity.test-framework

@@ -6,34 +6,34 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/UnityHand/Scenes/BodyPoseDetection.unity
+    path: Assets/UnityHand/Demo Scenes/BodyPoseDetection.unity
     guid: 3951b7b9ac8ef7e4483e20ede0934662
   - enabled: 1
-    path: Assets/UnityHand/Scenes/DistanceGrab.unity
+    path: Assets/UnityHand/Demo Scenes/DistanceGrab.unity
     guid: e1126b355bc6d884c8904360bbbe92e9
   - enabled: 1
-    path: Assets/UnityHand/Scenes/Gesture.unity
-    guid: b7ba9b5776908ad4fbb39495501114df
+    path: Assets/UnityHand/Demo Scenes/Gesture.unity
+    guid: 856b68c8214439d459c1ad0ace4628df
   - enabled: 1
-    path: Assets/UnityHand/Scenes/HandGrab.unity
+    path: Assets/UnityHand/Demo Scenes/HandGrab.unity
     guid: c1277cfcb31f511419b078f30f34418c
   - enabled: 1
-    path: Assets/UnityHand/Scenes/HandGrabUse.unity
+    path: Assets/UnityHand/Demo Scenes/HandGrabUse.unity
     guid: 091e01cc15744bf48b723c471957d178
   - enabled: 1
-    path: Assets/UnityHand/Scenes/Poke.unity
+    path: Assets/UnityHand/Demo Scenes/Poke.unity
     guid: c14c9b7d2fe701c43b29387581d22bb4
   - enabled: 1
-    path: Assets/UnityHand/Scenes/Pose.unity
+    path: Assets/UnityHand/Demo Scenes/Pose.unity
     guid: 9bbea039aea812a46b0c790e535f2e06
   - enabled: 1
-    path: Assets/UnityHand/Scenes/Snap.unity
+    path: Assets/UnityHand/Demo Scenes/Snap.unity
     guid: 946818aee0fb21a4eb22de436f2c6448
   - enabled: 1
-    path: Assets/UnityHand/Scenes/TouchGrab.unity
+    path: Assets/UnityHand/Demo Scenes/TouchGrab.unity
     guid: e7b11173cac12db439e54721f769c47c
   - enabled: 1
-    path: Assets/UnityHand/Scenes/Transformer.unity
+    path: Assets/UnityHand/Demo Scenes/Transformer.unity
     guid: c80ce46319482994d9aee0656c6f399e
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 4b170ce931fc8e14693ba32ed3f628e9, type: 2}

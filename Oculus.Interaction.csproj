@@ -80,8 +80,8 @@
      <Compile Include="Assets\Oculus\Interaction\Runtime\Scripts\Interaction\Core\VirtualActiveState.cs" />
      <Compile Include="Assets\Oculus\Interaction\Runtime\Scripts\Interaction\Core\BestHoverInteractorGroup.cs" />
      <Compile Include="Assets\Oculus\Interaction\Runtime\Scripts\Interaction\Surfaces\CylinderClipper.cs" />
-     <Compile Include="Assets\Oculus\Interaction\Runtime\Scripts\Input\OneEuroFilter\OneEuroFilterFactory.cs" />
      <Compile Include="Assets\Oculus\Interaction\Runtime\Scripts\Body\Input\BodyPrimitives.cs" />
+     <Compile Include="Assets\Oculus\Interaction\Runtime\Scripts\Input\OneEuroFilter\OneEuroFilterFactory.cs" />
      <Compile Include="Assets\Oculus\Interaction\Runtime\Scripts\Interaction\Core\Interactor.cs" />
      <Compile Include="Assets\Oculus\Interaction\Runtime\Scripts\Interaction\Surfaces\BoundsClipper.cs" />
      <Compile Include="Assets\Oculus\Interaction\Runtime\Scripts\Interaction\Models\Ray\Visuals\RayInteractorDebugGizmos.cs" />

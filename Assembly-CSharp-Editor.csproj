@@ -835,6 +835,9 @@
     <Reference Include="Unity.XR.Oculus">
         <HintPath>C:\Users\battl\Unity\UnityHand\Library\ScriptAssemblies\Unity.XR.Oculus.dll</HintPath>
     </Reference>
+    <Reference Include="asset-store-tools-editor">
+        <HintPath>C:\Users\battl\Unity\UnityHand\Library\ScriptAssemblies\asset-store-tools-editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
         <HintPath>C:\Users\battl\Unity\UnityHand\Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
     </Reference>
